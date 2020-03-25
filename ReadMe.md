@@ -13,3 +13,10 @@ https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e
 <br><br>
 <b>Provided by Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE):</b><br>
 https://systems.jhu.edu/
+
+
+<br>
+
+## The repository contains two python notebooks
+1. COVID-19 EDA - India & Other Countries - The notebooks compares the spread of the COVID-19 in different countries and tries to corelate the growth with India.
+2. Covid19 EDA & Prediction - The notebook contains basic EDA of worldwide COVID-19 cases with prediction using Facebook's Prophet  forecasting method
